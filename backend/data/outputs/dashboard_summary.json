@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-04T13:53:53.601Z",
+  "dataset": {
+    "totalTransactions": 6362620,
+    "totalAmount": 1144392944759.7205
+  },
+  "fraud": {
+    "fraudTransactions": 8213,
+    "flaggedFraudTransactions": 16,
+    "suspiciousTransactions": 8229
+  },
+  "anomaly": {
+    "balanceMismatchTransactions": 6127388
+  }
+}
